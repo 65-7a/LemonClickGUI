@@ -1,2 +1,2 @@
 # LemonClickGUI
-Another ClickGUI. Not by me.
+Again, not by me - do not credit me in your client.
